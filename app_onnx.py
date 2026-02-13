@@ -7,9 +7,16 @@ import streamlit as st
 from PIL import Image
 from ultralytics import YOLO
 import pandas as pd
+from pathlib import Path
 
-# --- Your ONNX model path ---
+"""
+# --- LOCAL ONNX model path ---
 ONNX_PATH = r"G:\cla_projects\NOVA\onnx\yolo8nano_1k_320\best.onnx"
+
+"""
+
+# Github ONNX model Path
+ONNX_PATH = str(Path(__file__).parent / "models" / "best.onnx")
 
 st.set_page_config(page_title="ONNX Object Detection (Images)", layout="wide")
 st.title("ONNX Object Detection (Images Only)")
