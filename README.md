@@ -282,4 +282,4 @@ If you use this tool in your research, please cite:
 ---
 
 **Version**: 1.0  
-**Last Updated**: 2024
+**Last Updated**: 2026
