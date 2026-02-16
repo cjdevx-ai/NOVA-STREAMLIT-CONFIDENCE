@@ -262,18 +262,6 @@ This tool supports systematic research on:
 
 This tool is developed for the NOVA Low Light Vehicle Speed Detection Research project. For questions or contributions, please contact the research team.
 
-## License
-
-[Specify your license here]
-
-## Citation
-
-If you use this tool in your research, please cite:
-
-```
-[Your citation format here]
-```
-
 ## Contact
 
 **Author**: Clarence Jay Fetalino  
