@@ -1,7 +1,7 @@
 streamlit
-ultralytics
-opencv-python-headless
-pillow
 numpy
 pandas
+pillow
 onnxruntime
+opencv-python-headless==4.10.0.84
+ultralytics==8.2.90
